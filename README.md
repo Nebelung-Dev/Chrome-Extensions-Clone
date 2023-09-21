@@ -10,6 +10,8 @@ Things not added:
 - Toggle hover effect (it looks bad imo)
 - Search get small when screen is smaller
 
+Light mode is included in the code but not used.
+
 Check [it out!](https://nebelung-dev.github.io/Chrome-Extensions-Clone)
 
 \- Nebelung :D
